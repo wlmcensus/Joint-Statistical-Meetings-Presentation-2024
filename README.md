@@ -1,6 +1,11 @@
 The files in the repo pertain to the Joint Statistical Meetings (JSM) 2024 talk "Using Linked Micromaps for Evidence-Based Policy" given by Randall Powers (Bureau of Labor Statistics).
 
+The R code allows others to reproduce the results and to learn a bit about micromapST in R.
+The required data sets are in the repo.
+The slides are also included.
+
 Using Linked Micromaps for Evidence-Based Policy
+
 Randall Powers, US Bureau of Labor Statistics
 Wendy L. Martinez, US Census Bureau
 
